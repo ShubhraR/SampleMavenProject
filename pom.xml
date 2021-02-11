@@ -10,21 +10,22 @@
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	
 	</properties>  
-  <!-- <build>
+  <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>src</testSourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
-        <configuration>
+        <!-- <configuration>
           <source>1.8</source>
           <target>1.8</target>
-        </configuration>
+          <sourceEncoding>UTF-8</sourceEncoding>
+        </configuration> -->
       </plugin>
       
     </plugins>
-  </build> -->
+  </build>
   <dependencies>
 
     <dependency>
